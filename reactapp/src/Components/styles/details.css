@@ -1,0 +1,60 @@
+.det-title{
+  margin-top: 130px;
+  margin-left: 40px;
+  
+}
+.det-text{
+  text-align: center;
+  width: 50%;
+  background-color: azure;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  color: rgb(0, 0, 0);
+  padding-bottom: 70px;
+  float: left;
+  width: 40%;
+}
+.det-title h3{
+  margin-top: 70px;
+}
+.det-title button{
+  padding: 10px;
+  border-radius: 5px;
+
+  margin-top: 30%;
+  background-image: linear-gradient(to left,rgb(124, 231, 31),rgb(40, 143, 48));
+  border: 0;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.det-title img{
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  float: left;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.det-title .tut-name-det{
+  margin-top: 70px;
+  float: left;
+  margin-left: 40px;
+}
+.ReactStars{
+ 
+  margin-top: 60px;
+  margin-left: 220px;
+}
+.rate{
+  margin-bottom: 20px;
+}
+.det-img img{
+  height: 400px;
+  width: 500px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  float: left;
+  width: 40%;
+  margin-left: 120px;
+  margin-top: 70px;
+}
